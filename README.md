@@ -11,7 +11,7 @@
 * 工作年限：2012.02~至今（4年）
 * 博客：[http://kingschan.51so.info](http://kingschan.51so.info)
 * GitHub：[https://github.com/kingschan1204](https://github.com/kingschan1204)
-* 期望职位：项目经理/高级工程师/平台研发工程师 ~非外包~
+* 期望职位：项目经理/高级工程师/平台研发工程师 ~!外包~
 
 # 工作经历
 
@@ -43,7 +43,7 @@
 
 # 职业专长
 
-* java && C# && javascript && actionscript && C &&　shell && SQL && HTML && css 
+* java , C# , javascript , actionscript , C ,　shell , SQL , HTML , css 
 * 前端(font) : html5,css,jquery,bootstrap ,miniui,easyui
 * 后台(background)：Spring ,SpringMVC ,Hibernate,Freemarker,Struts2 ,Hibernante-search
 * webservice : CXF 
@@ -52,5 +52,4 @@
 * mobile: andorid , wince 
 * open-source : lucene,Solr ,jsoup ,crawler4j,markdown,druid,JSqlParser, apache ...
 * web服务器: nginx,tomcat ,jetty,apache
-*sso : cas 
-
+* sso : cas 
