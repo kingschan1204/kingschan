@@ -45,7 +45,8 @@
 
 * java , C# , javascript , actionscript , C ,　shell , SQL , HTML , css 
 * 前端(font) : html5,css,jquery,bootstrap ,miniui,easyui
-* 后台(background)：Spring ,SpringMVC ,Hibernate,Freemarker,Struts2 ,Hibernante-search
+* 后台(background)：Spring ,SpringMVC ,Hibernate,Struts2 ,Hibernante-search
+* template engine: Freemarker
 * webservice : CXF 
 * Database : Mssql,Mysql,Oracle,Sqllite,H2,derby,memcache,redis,mongodb
 * OS : Linux centos ,OSX ,Windows 
