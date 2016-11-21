@@ -1,7 +1,7 @@
 # 联系方式
 
 * 手机(mobile):18566344055
-* Email: kings.chan@qq.com
+* Email: [kings.chan@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=udLQ197Kl9rR2Nf5yMiX2tbU)
 * QQ：10074517
 
 # 个人信息
@@ -11,7 +11,10 @@
 * 工作年限：2012.02~至今（4年）
 * 博客：[http://kingschan.51so.info](http://kingschan.51so.info)
 * GitHub：[https://github.com/kingschan1204](https://github.com/kingschan1204)
-* 期望职位：项目经理/高级工程师/平台研发工程师 ~!外包~
+* 期望职位：项目经理/高级工程师/平台研发工程师 `非外包`
+
+#简述
+本人属于全能型开发人员，前端，后台，测试，部署，运维，架构。非常喜欢编程，学习能力强。最擅长后端开发。最喜欢做线上互联网项目。对搜索引挚有一定研究（nutch+solr or lucene ）,熟悉爬虫原理。对数据库操作有一定的理解。熟悉主流开发框架。
 
 # 工作经历
 
@@ -38,7 +41,7 @@
 
 # 开源项目及作品
 * [http://kingschan.51so.info](http://kingschan.51so.info) 
-*待续
+* 待续
 
 
 # 职业专长
@@ -53,4 +56,6 @@
 * mobile: andorid , wince 
 * open-source : lucene,Solr ,jsoup ,crawler4j,markdown,druid,JSqlParser, apache ...
 * web服务器: nginx,tomcat ,jetty,apache
-* sso : cas 
+* sso : cas
+* test : junit , jmeter , app scan ,loadrunner
+*  ... ...
