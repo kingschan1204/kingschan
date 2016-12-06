@@ -13,7 +13,7 @@
 * GitHub：[https://github.com/kingschan1204](https://github.com/kingschan1204)
 * 期望职位：项目经理/高级工程师/平台研发工程师 `非外包`
 
-![kingschan](https://raw.githubusercontent.com/kingschan1204/resume/master/img/me.JPG) 
+![kingschan](https://raw.githubusercontent.com/kingschan1204/resume/master/img/me.JPG )  
 
 
 #简述
