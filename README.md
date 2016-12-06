@@ -3,13 +3,13 @@
 * 手机(mobile):18566344055
 * Email: [kings.chan@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=udLQ197Kl9rR2Nf5yMiX2tbU)
 * QQ：10074517
+* 博客：[http://kingschan.51so.info](http://kingschan.51so.info)
 
 # 个人信息
 
 * 陈国祥 kings.chan/男/1992
 * 本科/软件工程/
 * 工作年限：2012.02~至今（4年）
-* 博客：[http://kingschan.51so.info](http://kingschan.51so.info)
 * GitHub：[https://github.com/kingschan1204](https://github.com/kingschan1204)
 * 期望职位：项目经理/高级工程师/平台研发工程师 `非外包`
 
@@ -40,7 +40,7 @@
 
 
 # 开源项目及作品
-* [http://kingschan.51so.info](http://kingschan.51so.info) 
+* [http://kingschan.51so.info](http://kingschan.51so.info) | [项目介绍](https://github.com/kingschan1204/51so.info)
 * 待续
 
 
