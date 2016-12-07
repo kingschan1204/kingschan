@@ -7,7 +7,7 @@
 
 # 个人信息
 
-* 陈国祥 kings.chan/男/1992
+* 陈国祥 kings.chan/男
 * 本科/软件工程/
 * 工作年限：2012.02~至今（4年）
 * GitHub：[https://github.com/kingschan1204](https://github.com/kingschan1204)
