@@ -1,5 +1,4 @@
- # 联系方式
-
+# 联系方式
 * 手机(mobile):18566344055
 * Email: [kings.chan@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=udLQ197Kl9rR2Nf5yMiX2tbU)
 * QQ：10074517
@@ -50,16 +49,19 @@
 
 # 职业专长
 
-* **java** , C# , **javascript** , actionscript , C ,　shell , SQL , HTML , css 
-* 前端(font) : html5,jquery,**bootstrap** ,miniui,easyui,**angualar js**
-* **后台(background)：Spring ,SpringMVC ,Hibernate,Struts2 ,Hibernante-search**
+* main : **java** , C# , **javascript**  ,　shell , SQL , HTML5
+* 前端(font) : html5 , jquery , **bootstrap** , miniui,easyui , **angualar js**
+* **后台(back)：Spring ,SpringMVC ,Hibernate,Struts2 ,Hibernante-search**
 * template engine: Freemarker
-* webservice : CXF 
+* webservice : CXF , axis2 
 * **Database : Mssql,Mysql,Oracle,Sqllite,H2,derby,memcache,redis,mongodb**
 * OS : **Linux centos** ,OSX ,Windows 
-* **mobile develop: andorid , wince **
+* mobile develop: andorid , wince 
 * open-source : **lucene**,**Solr** ,**jsoup** ,crawler4j,markdown,druid,**JSqlParser**,nutch apache ...
-* web服务器: nginx,tomcat ,jetty
+* servlet容器: tomcat , jetty
+* web服务器: nginx
 * sso : cas
 * test : **junit** , jmeter , app scan ,loadrunner
-*  ... ...
+* other: maven
+
+
