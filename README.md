@@ -8,7 +8,7 @@
 
 * 陈国祥 kings.chan/男
 * 本科/软件工程/
-* 工作年限：2012.02~至今（4年）
+* 工作年限：2012.02~至今（5年）
 * GitHub：[https://github.com/kingschan1204](https://github.com/kingschan1204)
 * 期望职位：项目经理/高级工程师/平台研发工程师 **非外包**
 * 期望薪资:面议 or 电话沟通
@@ -43,9 +43,9 @@
 
 
 # 开源项目及作品
-* [http://kingschan.51so.info](http://kingschan.51so.info) | [项目介绍](https://github.com/kingschan1204/51so.info)
-* 待续
-
+* [jblog](https://github.com/kingschan1204/jblog) 
+* [jfastQuery](https://github.com/kingschan1204/jfastQuery) 
+* ... ...  
 
 # 职业专长
 
