@@ -11,7 +11,7 @@
 * 工作年限：2012.02~至今（5年）
 * GitHub：[https://github.com/kingschan1204](https://github.com/kingschan1204)
 * 期望职位：项目经理/高级工程师/平台研发工程师 **非外包**
-* 期望薪资:面议 or 电话沟通
+
 
 ![kingschan](https://raw.githubusercontent.com/kingschan1204/resume/master/img/me.JPG )  
 
@@ -51,7 +51,7 @@
 
 * main : **java** , C# , **javascript**  ,　shell , SQL , HTML5
 * 前端(font) : html5 , jquery , **bootstrap** , miniui,easyui , **angualar js**
-* **后台(back)：Spring ,SpringMVC ,Hibernate,Struts2 ,Hibernante-search**
+* **后台(back)：Spring ,SpringMVC ,Spring boot,Hibernate,Struts2 ,Hibernante-search**
 * template engine: Freemarker
 * webservice : CXF , axis2 
 * **Database : Mssql,Mysql,Oracle,Sqllite,H2,derby,memcache,redis,mongodb**
