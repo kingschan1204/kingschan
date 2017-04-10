@@ -43,8 +43,8 @@
 
 
 ## 开源项目及作品
-* [jblog](https://github.com/kingschan1204/jblog) 
-* [jfastQuery](https://github.com/kingschan1204/jfastQuery) 
+* [jblog](https://kingschan1204.github.io/jblog) 
+* [jfastQuery](https://kingschan1204.github.io/jfastquery/) 
 * ... ...  
 
 ## 职业专长
